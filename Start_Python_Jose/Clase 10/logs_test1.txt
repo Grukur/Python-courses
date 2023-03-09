@@ -1,0 +1,24 @@
+2020-07-06 13:45:06,021 INFO     [Clase 10.14.py:13] This will not show up.
+2020-07-06 13:45:06,021 WARNING  [Clase 10.14.py:14] This will.
+2020-07-06 13:45:06,021 DEBUG    [Clase 10.14.py:15] This is a debug message
+2020-07-06 13:45:06,021 CRITICAL [Clase 10.14.py:16] This is Critical
+2020-07-06 13:48:48,025 INFO     [Clase 10.14.py:13] This will not show up.
+2020-07-06 13:48:48,025 WARNING  [Clase 10.14.py:14] This will.
+2020-07-06 13:48:48,025 DEBUG    [Clase 10.14.py:15] This is a debug message
+2020-07-06 13:48:48,025 CRITICAL [Clase 10.14.py:16] This is Critical
+06-07-2020 13:52:08 INFO     [Clase 10.14.py:14] This will not show up.
+06-07-2020 13:52:08 WARNING  [Clase 10.14.py:15] This will.
+06-07-2020 13:52:08 DEBUG    [Clase 10.14.py:16] This is a debug message
+06-07-2020 13:52:08 CRITICAL [Clase 10.14.py:17] This is Critical
+09-07-2020 19:36:15 INFO     [Clase 10.14.py:14] This will not show up.
+09-07-2020 19:36:15 WARNING  [Clase 10.14.py:15] This will.
+09-07-2020 19:36:15 DEBUG    [Clase 10.14.py:16] This is a debug message
+09-07-2020 19:36:15 CRITICAL [Clase 10.14.py:17] This is Critical
+09-07-2020 19:46:08 INFO     [Clase 10.14.py:14] This will not show up.
+09-07-2020 19:46:08 WARNING  [Clase 10.14.py:15] This will.
+09-07-2020 19:46:08 DEBUG    [Clase 10.14.py:16] This is a debug message
+09-07-2020 19:46:08 CRITICAL [Clase 10.14.py:17] This is Critical
+09-07-2020 19:46:13 INFO     [Clase 10.14.py:14] This will not show up.
+09-07-2020 19:46:13 WARNING  [Clase 10.14.py:15] This will.
+09-07-2020 19:46:13 DEBUG    [Clase 10.14.py:16] This is a debug message
+09-07-2020 19:46:13 CRITICAL [Clase 10.14.py:17] This is Critical

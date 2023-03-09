@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Inicios.iml" filepath="$PROJECT_DIR$/.idea/Inicios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Master_Python/.idea/Master_Python.iml" filepath="$PROJECT_DIR$/../Master_Python/.idea/Master_Python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Proyects/.idea/Proyects.iml" filepath="$PROJECT_DIR$/../Proyects/.idea/Proyects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Pruebas pipe U/.idea/Pruebas pipe U.iml" filepath="$PROJECT_DIR$/../Pruebas pipe U/.idea/Pruebas pipe U.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PyCharm/.idea/PyCharm.iml" filepath="$PROJECT_DIR$/../PyCharm/.idea/PyCharm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Start_Python_Jose/.idea/Start_Python_Jose.iml" filepath="$PROJECT_DIR$/../Start_Python_Jose/.idea/Start_Python_Jose.iml" />
+    </modules>
+  </component>
+</project>

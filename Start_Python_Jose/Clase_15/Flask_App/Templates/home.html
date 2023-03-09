@@ -1,0 +1,12 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h1>Welcome Mate to this site!</h1>
+<h2>We have these Posts:</h2>
+
+<ul>
+    {% for post_id, post in posts.items() %}
+        <li><a href="{{ url_for('post', post_id=post_id) }}">{{ post['title'] }}</a></li>
+    {% endfor %}
+</ul>
+{% endblock %}

@@ -1,0 +1,5 @@
+https://openexchangerates.org/
+darold.trench@gmail.com
+pass: 258258258
+
+APP id = 3f33084eca9e4475b2fe9c86207755c5

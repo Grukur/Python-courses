@@ -1,0 +1,42 @@
+13-07-2020 12:31:50 INFO     [app.py:18] Loading books list...
+13-07-2020 12:31:51 INFO     [quotes_pages.py:27] found number of catalogue pages available: `
+            
+                Page 1 of 50
+            
+            `.
+13-07-2020 12:32:04 INFO     [app.py:18] Loading books list...
+13-07-2020 12:32:05 INFO     [quotes_pages.py:27] found number of catalogue pages available: `
+            
+                Page 1 of 50
+            
+            `.
+13-07-2020 12:38:43 INFO     [app.py:18] Loading books list...
+13-07-2020 12:38:44 INFO     [quotes_pages.py:27] found number of catalogue pages available: `
+            
+                Page 1 of 50
+            
+            `.
+13-07-2020 12:39:35 INFO     [app.py:18] Loading books list...
+13-07-2020 12:39:36 INFO     [quotes_pages.py:27] found number of catalogue pages available: `
+            
+                Page 1 of 50
+            
+            `.
+13-07-2020 12:40:41 INFO     [app.py:18] Loading books list...
+13-07-2020 12:40:41 INFO     [quotes_pages.py:27] found number of catalogue pages available: `
+            
+                Page 1 of 50
+            
+            `.
+13-07-2020 12:42:04 INFO     [app.py:18] Loading books list...
+13-07-2020 12:42:05 INFO     [quotes_pages.py:27] found number of catalogue pages available: `
+            
+                Page 1 of 50
+            
+            `.
+13-07-2020 12:42:28 INFO     [app.py:18] Loading books list...
+13-07-2020 12:42:28 INFO     [quotes_pages.py:27] found number of catalogue pages available: `
+            
+                Page 1 of 50
+            
+            `.

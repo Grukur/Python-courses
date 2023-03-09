@@ -1,0 +1,15 @@
+D:\Python\C# Code\App1\bin\Debug\net6.0\App1.exe
+D:\Python\C# Code\App1\bin\Debug\net6.0\App1.deps.json
+D:\Python\C# Code\App1\bin\Debug\net6.0\App1.runtimeconfig.json
+D:\Python\C# Code\App1\bin\Debug\net6.0\App1.dll
+D:\Python\C# Code\App1\bin\Debug\net6.0\ref\App1.dll
+D:\Python\C# Code\App1\bin\Debug\net6.0\App1.pdb
+D:\Python\C# Code\App1\obj\Debug\net6.0\App1.csproj.AssemblyReference.cache
+D:\Python\C# Code\App1\obj\Debug\net6.0\App1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Python\C# Code\App1\obj\Debug\net6.0\App1.AssemblyInfoInputs.cache
+D:\Python\C# Code\App1\obj\Debug\net6.0\App1.AssemblyInfo.cs
+D:\Python\C# Code\App1\obj\Debug\net6.0\App1.csproj.CoreCompileInputs.cache
+D:\Python\C# Code\App1\obj\Debug\net6.0\App1.dll
+D:\Python\C# Code\App1\obj\Debug\net6.0\ref\App1.dll
+D:\Python\C# Code\App1\obj\Debug\net6.0\App1.pdb
+D:\Python\C# Code\App1\obj\Debug\net6.0\App1.genruntimeconfig.cache

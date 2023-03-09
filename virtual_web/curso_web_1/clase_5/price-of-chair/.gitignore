@@ -1,0 +1,7 @@
+videos/
+.DS_Store
+venv/
+.vscode/
+.idea/
+*.pyc
+.env
